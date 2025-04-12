@@ -10,42 +10,42 @@ const SocialsSection = () => {
       <FaFacebook
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
         onClick={() =>
-          openLink("https://www.facebook.com/kelly.daniel.1806253")
+          openLink("https://www.facebook.com/dany.wizzy.7")
         }
       />
       <FaWhatsapp
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
 
         onClick={() =>
-          openLink("https://wa.me/22944255279")
+          openLink("https://wa.me/07043194111")
         }
       />
       <FaGithub
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
         onClick={() =>
-          openLink("https://github.com/KellyDanielO")
+          openLink("https://github.com/DANIEL-EKWERE")
         }
       />
       <FaLinkedinIn
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
         onClick={() =>
-          openLink("https://www.linkedin.com/in/kelly-daniel-4b0909212/")
+          openLink("https://www.linkedin.com/in/danielekwere/")
         }
       />
       <FaTwitter
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
-        onClick={() => openLink("https://twitter.com/kelly_daniel_o")}
+        onClick={() => openLink("https://x.com/hisdaniel_")}
       />
       <FaYoutube
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
         onClick={() =>
-          openLink("https://www.youtube.com/@kelly_daniel_official")
+          openLink("https://www.youtube.com/@daniel_ekwere")
         }
       />
       <FaInstagram
         className="text-2xl text-white cursor-pointer hover:text-primary transition-all"
         onClick={() =>
-          openLink("https://www.instagram.com/kelly_daniel_official/")
+          openLink("https://www.instagram.com/ekweredaniel31/")
         }
       />
     </div>
