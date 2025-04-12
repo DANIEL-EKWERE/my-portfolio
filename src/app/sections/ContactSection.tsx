@@ -47,7 +47,7 @@ const ContactSection = () => {
                     <MdEmail />
                 </div>
                 <p className="text-lg font-semibold">E-mail</p>
-                <a href="mailto:itzkellydaniel@gmail.com" className="text-xl hover:text-primary transition-all ease-in">ekweredaniel8@gmail.com</a>
+                <a href="mailto:ekweredaniel8@gmail.com" className="text-xl hover:text-primary transition-all ease-in">ekweredaniel8@gmail.com</a>
             </div>
             {/* Email */}
             <div className="flex justify-center items-center gap-3 flex-col">
@@ -55,7 +55,7 @@ const ContactSection = () => {
                     <FaPhone />
                 </div>
                 <p className="text-lg font-semibold">Phone Number</p>
-                <a href="tel:+2347077962564" className="text-xl hover:text-primary transition-all ease-in">+234 704 319 4111</a>
+                <a href="tel:+2347043194111" className="text-xl hover:text-primary transition-all ease-in">+234 704 319 4111</a>
             </div>
             {/* Location */}
             <div className="flex justify-center items-center gap-3 flex-col">
@@ -63,14 +63,14 @@ const ContactSection = () => {
                     <FaLocationArrow />
                 </div>
                 <p className="text-lg font-semibold">Location</p>
-                <p>Nigeria, Rivers State, Port Harcourt</p>
+                <p>Nigeria, Akwa Ibom State, Uyo</p>
             </div>
         </div>
         <div className="w-full  flex justify-center items-center flex-col lg:flex-row ">
             <div className="w-full md:w-full lg:w-[30%] flex justify-center items-center lg:items-start h-[60vh] bg-shade p-5">
                 <Image
                     src={MeImage}
-                    alt="Kelly Daniel"
+                    alt="Daniel Ekwere"
                     // layout="responsive"
                     className="w-full h-full object-contain"
                 />
