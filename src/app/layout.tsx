@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kelly Daniel Official",
+  title: "Daniel Ekwere",
   description: "I am a passionate and versatile web developer based in Nigeria, dedicated to transforming ideas into digital reality. Specializing in crafting dynamic and user-friendly web applications, my skills cover a range of technologies, allowing me to create seamless and engaging online experiences. I excel in building responsive and intuitive interfaces, leveraging my front-end expertise. Additionally, my back-end proficiency with Django ensures the development of robust and scalable server-side functionalities.",
 };
 

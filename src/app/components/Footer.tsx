@@ -16,30 +16,30 @@ const FooterComponent = () => {
                     <FaFacebook
                         className="text-2xl text-greyColor cursor-pointer hover:text-primary/55 transition-all"
                         onClick={() =>
-                            openLink("https://www.facebook.com/kelly.daniel.1806253")
+                            openLink("https://www.facebook.com/dany.wizzy.7")
                         }
                     />
                     <FaWhatsapp
                         className="text-2xl text-greyColor cursor-pointer hover:text-primary/55 transition-all"
                         onClick={() =>
-                            openLink("https://wa.me/22944255279")
+                            openLink("https://wa.me/09110741746")
                         }
                     />
                     <FaGithub
                         className="text-2xl text-greyColor cursor-pointer hover:text-primary/55 transition-all"
                         onClick={() =>
-                            openLink("https://github.com/KellyDanielO")
+                            openLink("https://github.com/DANIEL-EKWERE")
                         }
                     />
                     <FaLinkedinIn
                         className="text-2xl text-greyColor cursor-pointer hover:text-primary/55 transition-all"
                         onClick={() =>
-                            openLink("https://www.linkedin.com/in/kelly-daniel-4b0909212/")
+                            openLink("https://www.linkedin.com/in/danielekwere/")
                         }
                     />
                     <FaTwitter
                         className="text-2xl text-greyColor cursor-pointer hover:text-primary/55 transition-all"
-                        onClick={() => openLink("https://twitter.com/kelly_daniel_o")}
+                        onClick={() => openLink("https://twitter.com/hisdaniel_")}
                     />
                 </div>
             </div>
@@ -70,12 +70,12 @@ const FooterComponent = () => {
             <div className="lg:w-[25%] flex flex-col items-start gap-2">
                 <h1 className="text-3xl font-freeman">Have a question?</h1>
                 <div className="flex flex-col justify-center items-start gap-2 text-greyColor">
-                    <Link href={"mailto:itzkellydaniel@gmail.com"} className="hover:text-primary transition-all ease-linear" > itzkellydaniel@gmail.com</Link>
-                    <Link href={"tel:+2347077962564"} className="hover:text-primary transition-all ease-linear" >+234-70-7796-2564</Link>
+                    <Link href={"mailto:itzkellydaniel@gmail.com"} className="hover:text-primary transition-all ease-linear" > ekweredaniel8@gmail.com</Link>
+                    <Link href={"tel:+2347077962564"} className="hover:text-primary transition-all ease-linear" >+234-70-4319-4111</Link>
                 </div>
                 {/* Icon Area */}
             </div>
         </footer>
-        <h2 className="text-center text-greyColor text-sm pt-2 pb-20 px-5 lg:pb-5">Copyright ©2025 All rights reserved | Made with ❤️ by Kelly Daniel</h2></>
+        <h2 className="text-center text-greyColor text-sm pt-2 pb-20 px-5 lg:pb-5">Copyright ©2025 All rights reserved | Made with ❤️ by Daniel Ekwere</h2></>
 }
 export default FooterComponent

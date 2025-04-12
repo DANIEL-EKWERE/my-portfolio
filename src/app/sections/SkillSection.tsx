@@ -42,24 +42,24 @@ const SkillSection = () => {
             <div className="w-full lg:w-[45%] flex justify-between items-center flex-col gap-2">
                 <div className="flex justify-between items-center w-full">
                     <h3>React</h3>
-                    <p>70%</p>
+                    <p>40%</p>
                 </div>
                 <div className="h-2 w-full rounded-full bg-shade">
-                    <div className="h-2 w-[70%] bg-primary rounded-full"></div>
+                    <div className="h-2 w-[40%] bg-primary rounded-full"></div>
                 </div>
             </div>
             <div className="w-full lg:w-[45%] flex justify-between items-center flex-col gap-2">
                 <div className="flex justify-between items-center w-full">
                     <h3>NextJS</h3>
-                    <p>65%</p>
+                    <p>45%</p>
                 </div>
                 <div className="h-2 w-full rounded-full bg-shade">
-                    <div className="h-2 w-[65%] bg-primary rounded-full"></div>
+                    <div className="h-2 w-[45%] bg-primary rounded-full"></div>
                 </div>
             </div>
             <div className="w-full lg:w-[45%] flex justify-between items-center flex-col gap-2">
                 <div className="flex justify-between items-center w-full">
-                    <h3>python (Django)</h3>
+                    <h3>Dart</h3>
                     <p>75%</p>
                 </div>
                 <div className="h-2 w-full rounded-full bg-shade">
@@ -69,10 +69,10 @@ const SkillSection = () => {
             <div className="w-full lg:w-[45%] flex justify-between items-center flex-col gap-2">
                 <div className="flex justify-between items-center w-full">
                     <h3>MySQL & Postgres</h3>
-                    <p>70%</p>
+                    <p>60%</p>
                 </div>
                 <div className="h-2 w-full rounded-full bg-shade">
-                    <div className="h-2 w-[70%] bg-primary rounded-full"></div>
+                    <div className="h-2 w-[60%] bg-primary rounded-full"></div>
                 </div>
             </div>
         </div>
