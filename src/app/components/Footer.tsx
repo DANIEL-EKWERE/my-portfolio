@@ -39,7 +39,7 @@ const FooterComponent = () => {
                     />
                     <FaTwitter
                         className="text-2xl text-greyColor cursor-pointer hover:text-primary/55 transition-all"
-                        onClick={() => openLink("https://twitter.com/hisdaniel_")}
+                        onClick={() => openLink("https://x.com/hisdaniel_")}
                     />
                 </div>
             </div>
