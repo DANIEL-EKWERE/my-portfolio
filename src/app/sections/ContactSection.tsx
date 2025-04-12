@@ -47,7 +47,7 @@ const ContactSection = () => {
                     <MdEmail />
                 </div>
                 <p className="text-lg font-semibold">E-mail</p>
-                <a href="mailto:itzkellydaniel@gmail.com" className="text-xl hover:text-primary transition-all ease-in">itzkellydaniel@gmail.com</a>
+                <a href="mailto:itzkellydaniel@gmail.com" className="text-xl hover:text-primary transition-all ease-in">ekweredaniel8@gmail.com</a>
             </div>
             {/* Email */}
             <div className="flex justify-center items-center gap-3 flex-col">
@@ -55,7 +55,7 @@ const ContactSection = () => {
                     <FaPhone />
                 </div>
                 <p className="text-lg font-semibold">Phone Number</p>
-                <a href="tel:+2347077962564" className="text-xl hover:text-primary transition-all ease-in">+234 707 796 2564</a>
+                <a href="tel:+2347077962564" className="text-xl hover:text-primary transition-all ease-in">+234 704 319 4111</a>
             </div>
             {/* Location */}
             <div className="flex justify-center items-center gap-3 flex-col">
