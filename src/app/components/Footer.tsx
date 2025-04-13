@@ -70,8 +70,8 @@ const FooterComponent = () => {
             <div className="lg:w-[25%] flex flex-col items-start gap-2">
                 <h1 className="text-3xl font-freeman">Have a question?</h1>
                 <div className="flex flex-col justify-center items-start gap-2 text-greyColor">
-                    <Link href={"mailto:itzkellydaniel@gmail.com"} className="hover:text-primary transition-all ease-linear" > ekweredaniel8@gmail.com</Link>
-                    <Link href={"tel:+2347077962564"} className="hover:text-primary transition-all ease-linear" >+234-70-4319-4111</Link>
+                    <Link href={"mailto:ekweredaniel8@gmail.com"} className="hover:text-primary transition-all ease-linear" > ekweredaniel8@gmail.com</Link>
+                    <Link href={"tel:+2347043194111"} className="hover:text-primary transition-all ease-linear" >+234-70-4319-4111</Link>
                 </div>
                 {/* Icon Area */}
             </div>
